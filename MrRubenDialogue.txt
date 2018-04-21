@@ -1,0 +1,44 @@
+Mr Ruben - Greeting
+[The man is staring off into the distance, seemingly unaware of his surroundings.]
+[As you get closer, however, he eyes you from behind his sunglasses.]
+What? (1)
+
+1. Player
+How are things going? (2)
+You sound pissed. (3)
+What's gotten you so cranky? (4)
+What's your problem, buddy? (5)
+
+Mr Ruben
+2. Oh great, just great! With the exception of the five-fucking-thousand caps i lost, everything is just fine! (6)
+3. [Laughs] Oh you can tell, can't you? Try losing five thousand caps, that'll get you pissed. (6)
+4. Cranky doesn't even begin to describe it. Try losing five thousand caps, that'll get you pissed. (6)
+5. My problem? I'll tell you my problem! I just lost a heap of money is what! Five-fucking-thousand caps! Gone, just like that! (6)
+
+6. Player
+Damn. that's gotta suck. (7)
+Gambling troubles? seems to be the most common cause of money loss in Vegas. (8)
+It's just money. You should be glad you're still alive. (9)
+So what? You're in Vegas. Losing money is almost a given around these parts. (8)
+
+Mr Ruben
+7. Yeah, big time. Goddamn useless mercenaries.
+   I paid them five thousand caps before the mission, and was gonna pay the rest afterwards. half up front, half upon completion.
+   But then the fucking idiots go and get themselves killed by fiends! (10)
+
+8. It's not because of gambling that I lost the money. I found out that my hired mercenaries were all killed by a group of fiends.
+   I paid them five thousand caps before the mission, and was gonna pay the rest afterwards. half up front, half upon completion.
+   But then the fucking useless bunch go and get themselves killed! (10)
+	
+9. It's not "just" fucking money, it's money I lost hiring the worst mercenaries around.
+   I paid them five thousand caps before the mission, and was gonna pay the rest afterwards. half up front, half upon completion.
+   But then the fucking idiots go and get themselves killed by fiends! (10)
+   
+10. Player
+What was their job? (11)
+Seriously, Fiends? I could've killed them all myself. (12)
+Great! Less competition for me! (13)
+
+Mr Ruben
+11. They were supposed to clear out some fiends squatting on a valuable valuable piece of land.
+	You'd think it sounds like a simple enough job, but apparently not even that can be expected.
