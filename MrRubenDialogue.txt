@@ -4,41 +4,120 @@ Mr Ruben - Greeting
 What? (1)
 
 1. Player
-How are things going? (2)
-You sound pissed. (3)
+How are things going? 		 (2)
+You sound pissed.			 (3)
 What's gotten you so cranky? (4)
-What's your problem, buddy? (5)
+What's your problem, buddy?  (5)
 
 Mr Ruben
 2. Oh great, just great! With the exception of the five-fucking-thousand caps i lost, everything is just fine! (6)
-3. [Laughs] Oh you can tell, can't you? Try losing five thousand caps, that'll get you pissed. (6)
-4. Cranky doesn't even begin to describe it. Try losing five thousand caps, that'll get you pissed. (6)
-5. My problem? I'll tell you my problem! I just lost a heap of money is what! Five-fucking-thousand caps! Gone, just like that! (6)
+3. [Laughs] Oh you can tell, can't you? Try losing five thousand caps, that'll get you pissed. 			       (6)
+4. Cranky doesn't even begin to describe it. Try losing five thousand caps, that'll get you pissed. 		   (6)
+5. My problem? I just lost a heap of money is what! Five-fucking-thousand caps! Gone, just like that!          (6)
 
 6. Player
-Damn. that's gotta suck. (7)
+Damn. that's gotta suck. 													 (7)
 Gambling troubles? seems to be the most common cause of money loss in Vegas. (8)
-It's just money. You should be glad you're still alive. (9)
+It's just money. You should be glad you're alive.						     (9)
 So what? You're in Vegas. Losing money is almost a given around these parts. (8)
 
 Mr Ruben
 7. Yeah, big time. Goddamn useless mercenaries.
    I paid them five thousand caps before the mission, and was gonna pay the rest afterwards. half up front, half upon completion.
-   But then the fucking idiots go and get themselves killed by fiends! (10)
+   But then the fucking idiots go and get themselves killed by fiends! 	(10)
 
 8. It's not because of gambling that I lost the money. I found out that my hired mercenaries were all killed by a group of fiends.
    I paid them five thousand caps before the mission, and was gonna pay the rest afterwards. half up front, half upon completion.
-   But then the fucking useless bunch go and get themselves killed! (10)
+   But then the fucking useless bunch go and get themselves killed! 	(10)
 	
-9. It's not "just" fucking money, it's money I lost hiring the worst mercenaries around.
+9. It's not "just" fucking money, it's money i lost hiring the worst mercenaries around.
    I paid them five thousand caps before the mission, and was gonna pay the rest afterwards. half up front, half upon completion.
-   But then the fucking idiots go and get themselves killed by fiends! (10)
+   But then the fucking idiots go and get themselves killed by fiends! 	(10)
    
 10. Player
-What was their job? (11)
-Seriously, Fiends? I could've killed them all myself. (12)
-Great! Less competition for me! (13)
+What was their job?									  (11)
+Seriously, Fiends? I could've killed them all myself. (14)
+Great! Less competition for me! 					  (14)
 
 Mr Ruben
-11. They were supposed to clear out some fiends squatting on a valuable valuable piece of land.
+11. Now why should i tell you that? (12)
+
+12. Player
+I could help you with your problem.  (13)
+I'm a mercenary myself.              (14)
+You're right, i don't care. Goodbye. (15)
+
+Mr Ruben
+13. You do look like you can handle yourself, and given my current situation i suppose i need to hire someone else.
+    Tell you what, you do this job for me and i'll pay you the five thousand caps. (16)
+	
+14. Are you for hire? Given my current situation i suppose i need to find someone else.
+    Tell you what, you do this job for me and i'll pay you the five thousand caps. (16)
+
+15. Then stop wasting my time.
+	END CONVERSATION
+	
+16. Player
+Tell me about the job first. (17)
+Nah, not interested.(15)
+	
+Mr Ruben
+17. They were supposed to clear out some fiends squatting on a valuable piece of land.
 	You'd think it sounds like a simple enough job, but apparently not even that can be expected.
+	The place in question is Vault 74. I want you to clear it out.
+	I don't care how you do it, just make sure there's nothing alive in there when you get out. (18)
+
+18. Player
+(If Vault 74 was cleared beforehand) Vault 74? I've been there already. Everyone inside is dead. (19)
+(Else)
+Why the interest in Vault 74? 							 (20)
+I'm not gonna kill anyone, if that's what you're asking. (21)
+Let's talk about the reward. 							 (22)
+Sure, i'll do it.			 							 (23)
+Nah, not interested.		 							 (15)
+
+Mr Ruben
+19. {TBD}
+
+20. That's none of your business. (25)
+
+21. What are you, a soft-hearted merc? They're fiends, for fuck's sake! They all deserve to die.
+	Maybe if you can get to their leader you can convince them to leave the vault.
+	I don't fucking care either way, just get the fucking job done.
+	Now where were we? (18)
+	
+22. What about it? (29)
+
+23. Great. Vault 74 is located southwest of the REPCONN Headquarters, just north of of the NCR Ranger Safehouse.
+	Go there, clear everything out, then come back for your reward.
+	END CONVERSATION
+
+25. Player
+[Speech 50+] Oh but it is very much my business. I'm risking my life for it. (26)
+[Speech 50-] Then why am i killing all these people? 						 (27)
+Alright, i won't pry into it.												 (28)
+
+Mr Ruben
+26. Vault 74 has a computer inside it, which might contains some, ah, information that i want.
+	My sources say that the vault still generates power, which means that the facility is still active.
+	Hopefully that means the goddamn fiends haven't destroyed everything inside, yet. There might be something salvageable.
+	First step though, is to clear the current residents out of it. (18)
+
+27. Hah! As if fiends were people! They're worse than animals.
+	Like i said, it's none of your business. Don't ask any more stupid questions or i'll find a smarter mercenary. (18)
+	
+28. Good. Can we get back to business now? (18)
+
+29. Player
+[Barter 80+] I want what you'd pay the others. Ten-thousand caps. (30)
+[Barter 80-] Why don't you double it? 							  (31)
+Actually, nevermind. 											  (32)
+
+Mr Ruben
+30. Alright, but only after you've done the job. I'm not giving mercs advance pay anymore. (18)
+
+31. Because, as you might've guessed, i've already lost half of the previous team's reward.
+	So no, i'm not doubling it. Five thousand. Take it or leave it. (18)
+
+32. Then let's move on. (18)
+
